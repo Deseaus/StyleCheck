@@ -7,3 +7,11 @@ StyleCheck is a tool implemented in [Grammatical Framework](http://www.grammatic
 StyleCheck was developed as part of my [Master's Thesis](https://github.com/Deseaus/MastersThesis). Follow the link for the full thesis with a more detailed description of how it works. 
 
 The current version implements a limited subset of rules from the Wikipedia Spanish Style Guide (see `Wiki.gf` and `WikiMaster.gf`).
+
+# Main Grammar Structure
+
+![StyleCheck Main Grammar](overview/grammar_simple.png)
+
+# Full Grammar Structure
+
+![StyleCheck Full Grammar](overview/grammar_full.png)
